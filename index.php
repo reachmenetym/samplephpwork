@@ -1,9 +1,8 @@
-<!
 <html>
 <body>
 
 <?php
-echo phpinfo();
+echo "This is code to test deployment pipeline";
 ?>
 
 </body>
